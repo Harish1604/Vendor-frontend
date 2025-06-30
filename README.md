@@ -170,7 +170,4 @@ This comprehensive guide is designed to help you get started with the frontend o
   npm (comes bundled with Node.js)
 
 ## 🎬 Vendor Frontend Setup Demo
-
-[![Vendor Frontend Setup](https://img.youtube.com/vi/4CgKMEibgIw/hqdefault.jpg)](https://youtu.be/4CgKMEibgIw)
-
 🎥 [Click here to watch on YouTube](https://youtu.be/4CgKMEibgIw)
